@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @ftloksy
-- 👀 I’m interested in Writing the computer code and freeline.
-- 🌱 I’m currently learning golange and Machine Learning
-- 📫 How to reach me ? 
-    - this is the answear 
-    - /RQ T def /gM gmail def freakchow A RQ gM D 0 RQ com
+# Frankie's README
 
-<!---
-ftloksy/ftloksy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there! Welcome to my GitHub profile. 
+My name is Frankie, and my handle is @ftloksy. 
+I'm glad you stopped by. 
+Let me tell you a bit about myself.
+
+## About Me
+
+ - 👋 Hi, I'm Frankie!
+ - 👀 I'm interested in writing computer code and freeline.
+ - 🌱 Currently, I'm learning Golang and Machine Learning.
+
+## Contact Information
+
+If you'd like to get in touch with me, please use the following email address:
+
+ - 📫 Email: freakchow@gmail.com
+
+Feel free to reach out to me for any questions, 
+collaborations, or just to say hello. 
+I'll do my best to respond as soon as possible.
+
+Thank you for visiting my profile! Have a great day!
